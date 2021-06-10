@@ -15,7 +15,7 @@ function BigComponent(props) {
 function App() {
   return (
     <div className="App">
-      <BigComponent name= "Javed" />
+      <BigComponent name= "Manjunath" />
     </div>
   );
 }
